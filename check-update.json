@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "buildNumber": "2",
+  "downloadUrl": "https://example.com/app.apk",
+  "changelog": "Các thay đổi trong phiên bản mới",
+  "forceUpdate": true
+}
